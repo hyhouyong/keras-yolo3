@@ -20,6 +20,6 @@
             python voc_annotation.py
    ### 4.将2007_train.txt改为train.txt
 ## 二.训练
-      python train.py
+            python train.py
 ## 三.测试
-      python yolo.py
+            python yolo.py
