@@ -15,7 +15,9 @@
     * 本项目使用windows环境下的labelImg
             注意：将图片名字默认6位，eg，000001.jpg
    ### 2.cd到ImageSets下，执行脚本，在Main下生成四个文件
+            python test.py
    ### 3.在VOCdevkit的同级目录下执行voc_annotation.py，生成三个txt文件2007_test.txt，2007_train.txt，2007_val.txt
+            python voc_annotation.py
    ### 4.将2007_train.txt改为train.txt
 ## 二.训练
       python train.py
