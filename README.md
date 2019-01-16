@@ -25,3 +25,5 @@
             python train.py
 ## 三.测试
             python yolo.py
+## 四.博客园地址
+            https://www.cnblogs.com/houyong/p/10273351.html
