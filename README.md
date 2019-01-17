@@ -1,4 +1,5 @@
 # keras-yolo3 
+## 标注了三个类，大概每个类800张左右图片，效果如图，欢迎批评指教
 ![](https://github.com/hyhouyong/keras-yolo3/blob/master/images/20.jpg)<br>
 ![](https://github.com/hyhouyong/keras-yolo3/blob/master/images/001467.jpg)<br>
 ![](https://github.com/hyhouyong/keras-yolo3/blob/master/images/001464.jpg)
